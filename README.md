@@ -50,9 +50,4 @@ After successfully installing the dependencies, you can run the Python applicati
 python app.py
 ```
 ##
-By Harshvardhan Saxena <br>
-20104064 <br>
-Jaypee Institute of Information Technology,Noida <br>
-[harshsaxena5434@gmail.com] <br>
-Task@2 <br>
 
